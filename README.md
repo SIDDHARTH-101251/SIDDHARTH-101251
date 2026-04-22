@@ -57,8 +57,8 @@ An experimental AI application exploring intelligent workflows and modern TypeSc
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn link here]
-- Portfolio: [Add your portfolio link here if available]
+- LinkedIn: [https://www.linkedin.com/in/siddharthsingh2029/](https://www.linkedin.com/in/siddharthsingh2029/)
+- Portfolio: [https://siddharthindia.ccbp.tech/](https://siddharthindia.ccbp.tech/)
 
 ---
 
